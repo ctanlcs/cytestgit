@@ -1,0 +1,7 @@
+{
+	"Guid": "ccdb8652-854a-43e5-b9aa-d1718122b652",
+	"ContractServiceUrl": "http://localhost:8744/",
+	"ConfigServiceUrl": "http://localhost:8744/",
+	"IsProductive": false,
+	"Name": "INT"
+}

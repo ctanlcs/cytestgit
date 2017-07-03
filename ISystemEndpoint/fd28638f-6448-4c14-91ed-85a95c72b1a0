@@ -1,0 +1,1 @@
+﻿{"Guid":"fd28638f-6448-4c14-91ed-85a95c72b1a0","IsActive":true,"Url":"http://platform-trans.southeastasia.cloudapp.azure.com:8084/api/v1/Workflow/Contracts/Workflow","EndpointType":"platform_config","Password":"","User":"","Label":"Service to get the list of workflows","Name":"Workflow Service"}
